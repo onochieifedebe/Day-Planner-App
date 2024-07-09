@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section action="DELETE" caption="New section 1" section_id="a29ac9a183930210de51cad6feaad36c" sys_domain="global" table="x_1387810_daily_0_to_do" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>project</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>3a9ac9a183930210de51cad6feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>status</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>be9ac9a183930210de51cad6feaad374</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>importance</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>329ac9a183930210de51cad6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>b29ac9a183930210de51cad6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>assigned_to</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>369ac9a183930210de51cad6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>due_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>b69ac9a183930210de51cad6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>send_reminder</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+            <sys_id>3a9ac9a183930210de51cad6feaad375</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="DELETE">
+            <caption>New section 1</caption>
+            <header>false</header>
+            <name>x_1387810_daily_0_to_do</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-07-09 15:08:34</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>a29ac9a183930210de51cad6feaad36c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1387810_daily_0_to_do</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Daily Planner" source="x_1387810_daily_0">fda001a583530210de51cad6feaad3b5</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Daily Planner">fda001a583530210de51cad6feaad3b5</sys_scope>
+            <sys_update_name>sys_ui_section_a29ac9a183930210de51cad6feaad36c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-07-09 15:08:34</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Daily Planner">fda001a583530210de51cad6feaad3b5</application>
+        <file_path/>
+        <instance_id>d9acef29db890e1402022a591396193b</instance_id>
+        <instance_name>dev246424</instance_name>
+        <name>sys_ui_section_a29ac9a183930210de51cad6feaad36c</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update><sys_ui_section caption="New section 1" section_id="a29ac9a183930210de51cad6feaad36c" sys_domain="global" table="x_1387810_daily_0_to_do" version="3" view=""><sys_ui_element action="INSERT_OR_UPDATE"><element>project</element><position>0</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>3a9ac9a183930210de51cad6feaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>status</element><position>1</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>be9ac9a183930210de51cad6feaad374</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>importance</element><position>2</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>329ac9a183930210de51cad6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>.split</element><position>3</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>b29ac9a183930210de51cad6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type>.split</type></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>assigned_to</element><position>4</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>369ac9a183930210de51cad6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>due_date</element><position>5</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>b69ac9a183930210de51cad6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_element action="INSERT_OR_UPDATE"><element>send_reminder</element><position>6</position><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:35</sys_created_on><sys_id>3a9ac9a183930210de51cad6feaad375</sys_id><sys_mod_count>0</sys_mod_count><sys_ui_formatter/><sys_ui_section caption="New section 1" display_value="New section 1" name="x_1387810_daily_0_to_do" sys_domain="global" view="Default view">a29ac9a183930210de51cad6feaad36c</sys_ui_section><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:35</sys_updated_on><sys_user/><type/></sys_ui_element><sys_ui_section action="INSERT_OR_UPDATE"><caption>New section 1</caption><header>false</header><name>x_1387810_daily_0_to_do</name><roles/><sys_class_name>sys_ui_section</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-07-09 15:08:34</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>a29ac9a183930210de51cad6feaad36c</sys_id><sys_mod_count>0</sys_mod_count><sys_name>x_1387810_daily_0_to_do</sys_name><sys_overrides/><sys_package display_value="Daily Planner" source="x_1387810_daily_0">fda001a583530210de51cad6feaad3b5</sys_package><sys_policy/><sys_scope display_value="Daily Planner">fda001a583530210de51cad6feaad3b5</sys_scope><sys_update_name>sys_ui_section_a29ac9a183930210de51cad6feaad36c</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-07-09 15:08:34</sys_updated_on><sys_user/><title>false</title><view display_value="Default view" name="NULL">Default view</view><view_name/></sys_ui_section></sys_ui_section></record_update>]]></payload>
+        <payload_hash>-328112752</payload_hash>
+        <record_name>To Do</record_name>
+        <reverted_from/>
+        <source>9091056583130210de51cad6feaad3b6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-09 15:08:35</sys_created_on>
+        <sys_id>f29ac9a183930210de51cad6feaad39d</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>190980a12b80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-09 15:08:35</sys_updated_on>
+        <type>Form Layout</type>
+        <update_guid>7a9ac9a13a930210e361e7b25cca769c</update_guid>
+        <update_guid_history>7a9ac9a13a930210e361e7b25cca769c:-328112752</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-07-09 15:09:34</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_section">sys_ui_section</sys_db_object>
+        <sys_id>6d02766240cf43b6ae0efbcb9cb9b261</sys_id>
+        <sys_metadata>a29ac9a183930210de51cad6feaad36c</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>New section 1</sys_name>
+        <sys_package display_value="Daily Planner" source="x_1387810_daily_0">fda001a583530210de51cad6feaad3b5</sys_package>
+        <sys_parent display_value="Daily 0 To Do">03d64d6d83530210de51cad6feaad367</sys_parent>
+        <sys_policy/>
+        <sys_scope display_value="Daily Planner">fda001a583530210de51cad6feaad3b5</sys_scope>
+        <sys_scope_delete display_value="">a3d3c06b946c4560b90fe21c86e0a8f9</sys_scope_delete>
+        <sys_update_name>sys_ui_section_a29ac9a183930210de51cad6feaad36c</sys_update_name>
+        <sys_update_version display_value="sys_ui_section_a29ac9a183930210de51cad6feaad36c">f29ac9a183930210de51cad6feaad39d</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-07-09 15:09:34</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
